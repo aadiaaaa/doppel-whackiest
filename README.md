@@ -12,8 +12,8 @@ People routinely share scattered fragments of personal data—public bios, socia
 * **Team ID:** `f3d8eb27`
 * **Colleges:** BIT & BMSIT
 * **Members:**
-  * **Keshav Jha** (Lead) — USN: `1BY25CB023`
-  * **Aadya Singh** — USN: `1BI25AI002`
+  * **Keshav Jha** 
+  * **Aadya Singh** 
 
 ## Planned Stack & Integrations
 * **Frontend & Extension:** Streamlit, PyVis/Plotly, Manifest V3 browser extension, Web Crypto (`AES-256-GCM`)
